@@ -1,0 +1,5 @@
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git
+1. first you clone your repository ,
+git pull origin master
+2. then call the pull command
+
